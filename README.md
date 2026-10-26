@@ -1,6 +1,8 @@
 # Java_Labs
 
-Hands-on labs for Java practice.
+Hands-on labs for Java practice.  
+
+Right click on the Lab Template link and open in a new browser window. 
 
 ## Lab Catalog
 
