@@ -10,3 +10,4 @@ Right click on the Lab Template link and open in a new browser window.
 | --- | --- | --- |
 | Salary Calculator | CLI App for calculating employee salary | [Lab Template](https://github.com/theacademy/java-salary-calculator) |
 | Factorial | CLI App for calculating Factorials | [Lab Template - untested](https://github.com/theacademy/Java_Factorial) |
+| DateTime | CLI App for DateTime Lab | [Lab Template - untested](https://github.com/theacademy/Java_DateTime) |
