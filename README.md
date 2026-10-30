@@ -14,5 +14,6 @@ Right click on the Lab Template link and open in a new browser window.
 | School | Fix the Queries in the Java App | [Lab Template - untested](https://github.com/theacademy/Java-School-Database) |
 | Full-Stack | Add the CRUD Code to Fix the App | [Lab Template - untested](https://github.com/theacademy/Java-School-Fullstack-Backend) |
 | Method Practice - Easy | Write and Test Easy Java Interview Methods  | [Lab Template](https://github.com/theacademy/Java-Easy-Method-Exercises) |
+| Method Practice - Moderate | Write and Test Moderate Java Methods  | [Lab Template](https://github.com/theacademy/Java-Moderate-Method-Exercises) |
 | Method Practice - Difficult | Write and Test Difficult Java Methods  | [Lab Template](https://github.com/theacademy/Java-Difficult-Method-Exercises) |
 
